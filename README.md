@@ -3,7 +3,7 @@
 *Huisu Lim's github!!👋*
 
 I am **Huisu Lim**, attending  
-[SEOUL NATIONAL UNIVERSITY OF SCIENCE AND TECHNOLOGY](https://www.seoultech.ac.kr/index.jsp).
+[SEOUL NATIONAL UNIVERSITY OF SCIENCE AND TECHNOLOGY](https://www.seoultech.ac.kr/index.jsp).  
 and I'm a **sophomore** and majoring in **computer science**
 
 📚I'm taking these classes there.
