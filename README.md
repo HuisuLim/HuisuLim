@@ -2,7 +2,7 @@
 
 *Huisu Lim's github!!👋*
 
-####hi####
+#### hi
 
 I am **Huisu Lim**, attending  
 [SEOUL NATIONAL UNIVERSITY OF SCIENCE AND TECHNOLOGY](https://www.seoultech.ac.kr/index.jsp).  
