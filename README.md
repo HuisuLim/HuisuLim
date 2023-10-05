@@ -2,8 +2,6 @@
 
 *Huisu Lim's github!!👋*
 
-#### hi
-
 I am **Huisu Lim**, attending  
 [SEOUL NATIONAL UNIVERSITY OF SCIENCE AND TECHNOLOGY](https://www.seoultech.ac.kr/index.jsp).  
 and I'm a **sophomore** and majoring in **computer science**
